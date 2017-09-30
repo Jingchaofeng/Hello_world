@@ -1,0 +1,16 @@
+#Ignore everything
+*
+
+3But not these files...
+!.gitignore
+
+!src
+!src/
+!src/**
+
+!libs
+!libs/
+!libs/**
+
+!*.txt
+!*.md
